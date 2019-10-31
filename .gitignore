@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+local_variables.py
+.vscode/settings.json
+*.csv
